@@ -1,1 +1,1 @@
-# HTML-CSS
+# HTML and CSS mini course
