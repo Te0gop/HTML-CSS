@@ -18,3 +18,7 @@ nav li a {
     color: white;
     text-decoration: none;
 }
+
+table, td, th {
+    border: 1px solid black;
+}
